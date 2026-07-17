@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://libertassss.github.io/blog-deploy/sitemap.xml 
